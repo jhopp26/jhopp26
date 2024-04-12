@@ -8,7 +8,7 @@ I prioritize adaptability, solution-based thinking, and strong people skills to 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My objective is to secure an entry-level role either as an AWS professional or a Security Analyst, specializing in protecting digital assets and mitigating cyber threats. 
+My objective is to secure an entry-level role either as an AWS Junior Cloud Engineer or a Security Analyst, specializing in protecting digital assets and mitigating cyber threats. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
