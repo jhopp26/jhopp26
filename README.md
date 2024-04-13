@@ -8,7 +8,7 @@ I prioritize adaptability, solution-based thinking, and strong people skills to 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My objective is to secure an entry-level role either as an Junior AWS Cloud Engineer or a Security Analyst, specializing in protecting digital assets and mitigating cyber threats. 
+My goal is to secure an entry-level position as a Junior Cloud Support Engineer, leveraging my 5 years of sales and customer-facing experience alongside my 10 years of martial arts training. In this role, I aim to not only shield digital assets and counter cyber threats but also embark on a journey to achieve mastery – aspiring to become a black belt in the cloud industry.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
