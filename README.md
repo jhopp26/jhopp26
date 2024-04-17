@@ -44,14 +44,8 @@ Transitioning into Cybersecurity and seeking Junior Cloud Engineer roles. I have
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?logo=amazon-aws&style=for-the-badge" alt="AWS Cloud Practitioner Badge" />
 
 ## Projects
 - Detection Lab
