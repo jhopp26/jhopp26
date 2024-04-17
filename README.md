@@ -6,17 +6,15 @@
 I prioritize adaptability, solution-based thinking, and strong people skills to protect individuals and assets. My drive for task completion ensures precision and dedication in every project while adhering to policies.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My goal is to secure an entry-level position as a Junior Cloud Support Engineer, leveraging my 5 years of sales and customer-facing experience alongside my 10 years of martial arts training. In this role, I aim to not only shield digital assets and counter cyber threats but also embark on a journey to achieve mastery – aspiring to become a black belt in the cloud industry.
+Transitioning into Cybersecurity and seeking Junior Cloud Engineer roles. I have honed my skills in Amazon Web Services (AWS) to showcase my expertise. With a list of projects in my project section to showcase my proficiency in AWS services such as EC2, S3, Lambda, and more, I'm equipped to start my new role in the cloud industry. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| AWS virtual ripvate cloud        | <a href="https://google.com">Detection Lab</a>|
+| AWS S3 creation and configurations  | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
