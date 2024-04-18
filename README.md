@@ -13,7 +13,7 @@ Transitioning into Cybersecurity and seeking Junior Cloud Engineer roles. I have
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| AWS virtual ripvate cloud        | <a href="https://google.com">Detection Lab</a>|
+| AWS virtual private cloud        | <a href="https://google.com">Detection Lab</a>|
 | AWS S3 creation and configurations  | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
